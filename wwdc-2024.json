@@ -16,7 +16,7 @@
     "uttered": false
   },
   {
-    "phrase": "Srouji graphs without axis labels",
+    "phrase": "Graphs without axis labels",
     "uttered": false
   },
   {
@@ -60,10 +60,6 @@
     "uttered": false
   },
   {
-    "phrase": "Tryhard meme segment",
-    "uttered": false
-  },
-  {
     "phrase": "“from the ground up”",
     "uttered": false
   },
@@ -100,10 +96,6 @@
     "uttered": false
   },
   {
-    "phrase": "Pride mention",
-    "uttered": false
-  },
-  {
     "phrase": "Accessibility features",
     "uttered": false
   },
@@ -113,6 +105,26 @@
   },
   {
     "phrase": "“best in class ___”",
+    "uttered": false
+  },
+  {
+    "phrase": "ChatGPT",
+    "uttered": false
+  },
+  {
+    "phrase": "Siri LLM",
+    "uttered": false
+  },
+  {
+    "phrase": "AI powered...",
+    "uttered": false
+  },
+  {
+    "phrase": "“advanced machine learning...“",
+    "uttered": false
+  },
+  {
+    "phrase": "On-device LLM",
     "uttered": false
   }
 ]
