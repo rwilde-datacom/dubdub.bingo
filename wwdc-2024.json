@@ -112,11 +112,7 @@
     "uttered": false
   },
   {
-    "phrase": "Siri LLM",
-    "uttered": false
-  },
-  {
-    "phrase": "AI powered...",
+    "phrase": "Siri GPT",
     "uttered": false
   },
   {
@@ -124,7 +120,43 @@
     "uttered": false
   },
   {
-    "phrase": "On-device LLM",
+    "phrase": "On-device LLMs",
+    "uttered": false
+  },
+  {
+    "phrase": "“Apple Intelligence“",
+    "uttered": false
+  },
+  {
+    "phrase": "Genertative AI Emojis",
+    "uttered": false
+  },
+  {
+    "phrase": "“New Settings App",
+    "uttered": false
+  },
+  {
+    "phrase": "Calculator on iPad",
+    "uttered": false
+  },
+  { 
+    "phrase": "App-icon tinting",
+    "uttered": false
+  },
+   {
+    "phrase": "Passwords app",
+    "uttered": false
+  },
+  {
+    "phrase": "Xcode Copilot",
+    "uttered": false
+  },
+  {
+    "phrase": "Vision Pro released in New Zealand",
+    "uttered": false
+  },
+  {
+    "phrase": "Home screen dark mode",
     "uttered": false
   }
 ]
